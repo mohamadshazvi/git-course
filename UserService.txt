@@ -3,4 +3,4 @@ get the user data...
 process the data
 
 
-crate ana avatar for user
+create an avatar for user
